@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Feedbacker**
 
-- 💬 Ask me about **React,Node Js,Html,Tailwind, Javascript, Express Js, Mongodb,Css.**
+- 💬 Ask me about **React Js,Node Js,Html,Tailwind, Javascript, Express Js, Mongodb,Css.**
 
 - 📫 How to reach me **yashaghane1141121@gmail.com**
 
